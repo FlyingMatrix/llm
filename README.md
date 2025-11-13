@@ -1,4 +1,4 @@
 # LLM
-Large language model scripts and applications
+A collection of scripts and applications built with large language models (LLMs)
 
 ![Screenshot](./assets/ai_chatbot.png)
